@@ -2,7 +2,7 @@
 
 **Data Analyst | Power BI Developer**  
 
-<img src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+<img src="https://www.datacrafterslab.com/assets/img/analytics2.gif" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
 
 
 ---
