@@ -54,7 +54,7 @@
 
 ## 📂 Projects
 - 🏦 **Bank Customer Churn Analysis** – Analyzed churn patterns and built interactive dashboards  
-- 🏏 **IPL 2025 Data Analysis** – Explored player performance and recommended best picks  
+- 🏏 **IPL 2025 Players Perfomance Analysis** – Explored player performance and recommended best picks  
 - 📊 *More projects coming soon…*  
 
 ---
