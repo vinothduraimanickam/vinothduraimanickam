@@ -48,6 +48,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
 </p>
 
 ---
