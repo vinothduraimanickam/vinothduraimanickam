@@ -36,6 +36,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/git.png" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="50" height="50"/>
 </p>
 
 ---
@@ -47,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/google-looker.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
 
