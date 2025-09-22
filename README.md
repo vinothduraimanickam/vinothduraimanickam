@@ -31,7 +31,7 @@
 
 ## 🧰 Tools I Use
 <p>
-  <img src="https://img.icons8.com/color/48/power-bi-2021.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/96/power-bi-2021.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" height="50"/>
