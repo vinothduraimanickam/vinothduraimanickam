@@ -33,8 +33,8 @@
 <p>
   <img src="https://img.icons8.com/fluency/96/power-bi-2021.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" height="50"/>
+  <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:100" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/MSSQL_SSMS_21_icon.png/250px-MSSQL_SSMS_21_icon.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/git.png" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" width="50" height="50"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="50" height="50"/>
