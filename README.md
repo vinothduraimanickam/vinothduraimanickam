@@ -23,8 +23,8 @@
 ![Dashboards](https://img.shields.io/badge/-Dashboards-FF8C00?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Reports](https://img.shields.io/badge/-Reports-4B0082?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python_Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL_Basics-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -33,6 +33,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/power-bi-2021.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/git.png" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" width="50" height="50"/>
